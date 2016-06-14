@@ -2,8 +2,16 @@ var app = require('express')();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
 
+/**
+ * 路由配置
+ */
+//服务器根目录
 app.get('/', function (req, res) {
     res.send('<h1>Welcome Realtime Server</h1>');
+});
+//demo子目录
+app.get('/demo', function (req, res) {
+    res.send('<h1>Welcome Realtime Server - demo</h1>');
 });
 
 //在线用户
