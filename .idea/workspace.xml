@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d10c412d-1456-4c27-a87a-131f65664509" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/app.js" afterPath="$PROJECT_DIR$/server/app.js" />
     </list>
     <list id="9e772ad6-47ba-4c98-840e-e95a8a0da153" name="New changelist" comment="" />
     <list id="b16b48e9-8a95-4cfb-8868-22e50a4cea9a" name="拒绝提交:默认的" comment="拒绝提交:默认的" />
@@ -258,6 +257,13 @@
       <option name="number" value="Default" />
       <updated>1465365193961</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1465876426233</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465876426233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -308,7 +314,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
