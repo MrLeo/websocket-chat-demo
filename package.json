@@ -1,9 +1,13 @@
 {
-  "name": "realtime-server",
+  "name": "Chat",
   "version": "0.0.1",
-  "description": "my first realtime server",
+  "description": "基于WebSocket+NodeJS的实时聊天Demo",
   "dependencies": {
     "express": "^4.13.4",
+    "express-generator": "^4.13.1",
+    "mongoskin": "^2.1.0",
+    "mysql": "^2.11.1",
+    "redis": "^2.6.2",
     "socket.io": "^1.4.6"
   }
 }

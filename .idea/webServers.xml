@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee8bba1c-dd96-4bf3-841d-4aa3c03cc22b" name="IIS" url="http://leo">
+        <fileTransfer mountedRoot="C:\Users\lxbin\Documents\WWW" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

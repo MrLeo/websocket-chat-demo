@@ -2,6 +2,7 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$" libraries="{websocket node_modules}" />
+    <file url="PROJECT" libraries="{jquery-DefinitelyTyped, vue-DefinitelyTyped, vue-resource-DefinitelyTyped, vue-router-DefinitelyTyped, websocket node_modules, zepto-DefinitelyTyped}" />
     <includedPredefinedLibrary name="ECMAScript 6" />
     <includedPredefinedLibrary name="WebGL" />
   </component>

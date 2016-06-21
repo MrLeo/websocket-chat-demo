@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="IIS">
+    <serverData>
+      <paths name="IIS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$" web="/websocket" />
+            <mapping deploy="\" local="$PROJECT_DIR$/../haisheng_hudong_min_v1.1.3" web="/haisheng_hudong_min_v1.1.3" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
