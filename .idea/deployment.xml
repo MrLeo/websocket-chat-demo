@@ -10,6 +10,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="IIS (project level)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
   </component>
 </project>
