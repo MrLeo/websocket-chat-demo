@@ -9,12 +9,11 @@
     "mysql": "^2.11.1",
     "redis": "^2.6.2",
     "socket.io": "^1.4.6",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
   },
   "scripts": {
-    // 运行npm run build 来编译生成生产模式下的bundles
     "build": "webpack --config webpack.config.prod.js",
-    // 运行npm run dev来生成开发模式下的bundles以及启动本地server
     "dev": "webpack-dev-server"
   }
 }
